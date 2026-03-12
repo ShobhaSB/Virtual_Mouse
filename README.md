@@ -2,6 +2,7 @@
 This project implements a Virtual Mouse using Computer Vision that allows users to control the system cursor with hand gestures captured through a webcam.
 It uses MediaPipe hand tracking and OpenCV to detect hand landmarks and perform mouse actions like move, click, scroll, and drag.
 #Features
+
     🖱️ Move cursor using index finger
     
     👌 Pinch gesture for mouse click
@@ -28,7 +29,7 @@ Install the required libraries using:
 
 ```bash
 pip install opencv-python mediapipe pyautogui numpy
-
+```
 
 ## 🧪 Virtual Environment (Recommended)
 
