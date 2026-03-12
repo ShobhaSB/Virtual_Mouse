@@ -1,7 +1,8 @@
 # Virtual_Mouse
 This project implements a Virtual Mouse using Computer Vision that allows users to control the system cursor with hand gestures captured through a webcam.
 It uses MediaPipe hand tracking and OpenCV to detect hand landmarks and perform mouse actions like move, click, scroll, and drag.
-#Features
+
+## Features
 
     🖱️ Move cursor using index finger
     
